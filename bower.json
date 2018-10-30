@@ -9,7 +9,7 @@
   "ignore": "bower_components",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0",
-    "paper-dropdown-input": "Juravenator/paper-dropdown-input#2.5.2"
+    "paper-input": "PolymerElements/paper-input#2.0-preview"
   },
   "devDependencies": {
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
